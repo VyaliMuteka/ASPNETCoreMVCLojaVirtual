@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIHt9NCnAZigmWKiD8G/PooWWVR9L7CRu8SzLQFi9NsQnRZihWkopZiOi7lTYhf3DuDE6H9Q0rBVrv6a7N5tdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jojo\\Documents\\Visual Studio 2019\\Pastas_Adicionais\\Curso_Rbeiro\\Primeiro_Projecto\\ProjectoZero\\ProjectoZero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jojo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
